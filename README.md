@@ -19,15 +19,16 @@ Para ejecutar el proyecto es necesario tener instalado lo siguiente:
 
 ## Ejecucion
 - Para ejecutar el proyecto
-        1. Abrir el IDE IntellijIdea
-        2. Ingresar en la opción File -> Open y ubicarse en el proyecto (abrir)
-        3. Esperar unos minutos para que se descargen las despendencias (gradle)
-        4. Opciòn 1: Ubicarse y ejecutar la clase RunnerforExercise.java (src/test/java/crudUser/RunnerforExercise.java).
+        1. Descargarse y descomplimir el proyecto localmente
+        2. Abrir el IDE IntellijIdea
+        3. Ingresar en la opción File -> Open y ubicarse en el proyecto (abrir)
+        4. Esperar unos minutos para que se descargen las despendencias (gradle)
+        5. Opciòn 1: Ubicarse y ejecutar la clase ManagementTestPrueba01.java (src/test/java/TestNTTData/ManagementTestPrueba01.java).
             - La clase ejecutara los features de forma ordenada según el ejercicio realizado
             - ## Reporte Karate: Una vez finalizada la ejecución se crea el informe propio de Karate para visualizarlo ubicarse en la ruta target/karate-reports/karate-summary.html
-        5. Opción 2: Ubicarse y ejecutar la clase ManagementTest.java (src/test/java/crudUser/ManagementTest.java).
+        6. Opción 2: Ubicarse y ejecutar la clase ManagementTestPrueba01.java (src/test/java/TestNTTData/ManagementTestPrueba01.java).
             - La clase ejecutara los features de forma ordenada según el ejercicio realizado
-            - ## Reporte Cucumber Una vez finalizada la ejecución se crea el informe realizado con Cucumber para visualizarlo ubicarse en la ruta build/cucumber-html-reports/overview-features.html
+            ## Reporte Karate: Una vez finalizada la ejecución se crea el informe propio de Karate para visualizarlo ubicarse en la ruta target/karate-reports/karate-summary.html
 
 ## Información adicional
 Referencia karate: https://www.karatelabs.io/
