@@ -10,7 +10,7 @@ Ejercicio 2: PetStore
 
 Para ejecutar el proyecto es necesario tener instalado lo siguiente:
 
-  - Maquina local con el sistema operativo Debian 11.0
+  - Maquina local con el sistema operativo Windows 10
   - JDK versión 1.8 (debe estar en la variable de entorno)
   - Intellij-Idea Comunity o Ultimate version 2023.1.2
   - Gradle 8.0
